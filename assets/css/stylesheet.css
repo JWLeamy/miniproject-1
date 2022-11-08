@@ -1,0 +1,33 @@
+header {
+    background-color: beige;
+    border-style: solid navy;
+    padding: 25px;
+
+}
+
+.li-1 {
+    position: relative;
+    float: right;
+    margin-top: -8px;
+    display: inline;
+    list-style: none;
+    margin-right: 10px;
+    font-size: x-large;
+}
+
+h1 {
+    position: relative;
+    display: inline;
+    left: 40%;
+    margin: 30px;
+    border: solid navy;
+}
+
+.soon {
+    position: relative;
+    display: inline-block;
+    left: 44%;
+    padding: 20px;
+    background-color: beige;
+    border: solid navy 15px;
+}
